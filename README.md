@@ -11,8 +11,6 @@ CourseWiz is a Streamlit web app that allows users to upload course notes (PDF, 
 
 Supports output in multiple languages and downloadable formats (TXT, DOCX, PDF).
 
----
-
 ## 🚀 Features
 
 - 📂 Upload PDF, DOCX, or TXT files
